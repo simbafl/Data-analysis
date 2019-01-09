@@ -8,15 +8,15 @@ B 站魔性的网站，n多次被本山大叔的改革春风待跑偏了，冲�
 
 从链接参数就能看出怎么获取数据了
 
-![bili-0](https://github.com/fenglei110/Data-analysis/tree/master/ch_Bilibili/images/small.png)
+![bili-0](https://github.com/fenglei110/Data-analysis/blob/master/ch_Bilibili/images/small.png)
 
 找到了 api 的地址
-
-![bili-1](https://github.com/fenglei110/Data-analysis/tree/master/ch_Bilibili/images/big.png)
+                
+![bili-1](https://github.com/fenglei110/Data-analysis/blob/master/ch_Bilibili/images/bin.png)
 
 复制下来整个url，用浏览器打开，会得到如下的 json 数据
 
-![bili-2](https://github.com/fenglei110/Data-analysis/tree/master/ch_Bilibili/images/three.png)
+![bili-2](https://github.com/fenglei110/Data-analysis/blob/master/ch_Bilibili/images/three.png)
 
 ### 代码
 
