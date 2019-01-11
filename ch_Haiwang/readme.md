@@ -18,19 +18,34 @@
     cd Spider
     scrapy genspider Haiwang m.maoyan.com
 ```
+#### 代码 中间建设置
+##### User-Agent动态设置. 下载`fake_useragent`插件, 维护的比较完善
+##### 维护ip代理池, ip具体操作查看tools目录. `github`上也有人写了比较完善的`scrapy-proxy`, 功能比较齐全, 自我感觉不好用
+```py
+    class RandomUserAgentMiddleware(object):
+    # 随机切换user-agent
+    def __init__(self, crawler):
+        super(RandomUserAgentMiddleware, self).__init__()
+        self.ua = UserAgent()
+        self.ua_type = crawler.settings.get("RANDOM_UA_TYPE", "random")
 
+    @classmethod
+    def from_crawler(cls, crawler):
+        return cls(crawler)
 
-![haiwang-3](https://github.com/fenglei110/Data-analysis/blob/master/ch_Haiwang/images/list.png)
+    def process_request(self, request, spider):
+        def get_ua():
+            return getattr(self.ua, self.ua_type)
+        request.headers.setdefault('User-Agent', get_ua())
+        
+    class RandomProxyMiddleware(object):
+    # 动态ip设置
+    def process_request(self, request, spider):
+        get_ip = GetIp()
+        request.meta['proxy'] = get_ip.get_random_ip()
+```
 
 至于爬取后要怎么处理就看自己爱好了，我是先保存为 csv 文件，然后再汇总插入到mongodb，毕竟文件存储有限。
-
-#### 汇总的 csv 文件
-
-![csv-desc](https://github.com/fenglei110/Data-analysis/blob/master/ch_Haiwang/images/csv.png)
-
-#### 数据库表
-
-![sql-desc](https://github.com/fenglei110/Data-analysis/blob/master/ch_Haiwang/images/mongo.png)
 
 
 #### 评分占比, 看得出来大部分给了5分好评

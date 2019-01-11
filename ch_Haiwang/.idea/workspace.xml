@@ -2,8 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b5f2f5e3-2d88-4a25-a414-c36c1ef50dfb" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Spider/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ch_Bilibili/images/bin.png" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/Spider/Spider/tools/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Spider/Spider/tools/xici_ip.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Spider/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ch_Bilibili/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ch_Bilibili/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Spider/Spider/middlewares.py" beforeDir="false" afterPath="$PROJECT_DIR$/Spider/Spider/middlewares.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Spider/Spider/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/Spider/Spider/settings.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/readme.md" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -14,13 +19,16 @@
   </component>
   <component name="CoverageDataManager">
     <SUITE FILE_PATH="coverage/ch_Haiwang$analysis.coverage" NAME="analysis Coverage Results" MODIFIED="1547131599874" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/ch_Haiwang$xici_ip.coverage" NAME="xici_ip Coverage Results" MODIFIED="1547174478861" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Spider/tools" />
   </component>
   <component name="FUSProjectUsageTrigger">
     <session id="1015579872">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
+          <entry key="project.closed" value="1" />
           <entry key="project.open.time.0" value="1" />
-          <entry key="project.opened" value="1" />
+          <entry key="project.open.time.11" value="1" />
+          <entry key="project.opened" value="2" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
@@ -30,8 +38,8 @@
           <entry key="json" value="4" />
           <entry key="md" value="1" />
           <entry key="png" value="10" />
-          <entry key="py" value="8" />
-          <entry key="txt" value="1" />
+          <entry key="py" value="14" />
+          <entry key="txt" value="2" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
@@ -40,61 +48,76 @@
           <entry key="Image" value="10" />
           <entry key="JSON" value="4" />
           <entry key="Markdown" value="1" />
-          <entry key="PLAIN_TEXT" value="2" />
-          <entry key="Python" value="8" />
+          <entry key="PLAIN_TEXT" value="3" />
+          <entry key="Python" value="14" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="md" value="297" />
-          <entry key="py" value="2156" />
+          <entry key="md" value="494" />
+          <entry key="py" value="4576" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="Markdown" value="297" />
-          <entry key="Python" value="2156" />
+          <entry key="Markdown" value="494" />
+          <entry key="Python" value="4576" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/haiwang.csv">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="177">
-              <caret line="58559" column="2" selection-start-line="58559" selection-start-column="1" selection-end-line="58559" selection-end-column="2" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/analysis.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-2880">
+            <state relative-caret-position="18">
               <caret line="8" selection-start-line="8" selection-end-line="8" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/render.html">
+        <entry file="file://$PROJECT_DIR$/Spider/Spider/middlewares.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
+            <state relative-caret-position="360">
+              <caret line="29" selection-start-line="29" selection-end-line="33" selection-end-column="54" />
               <folding>
-                <element signature="n#style#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="e#169#195#0" expanded="true" />
+                <element signature="e#240#1902#0" />
+                <element signature="e#1951#3594#0" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Spider/Spider/tools/xici_ip.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="801">
+              <caret line="83" column="14" selection-start-line="83" selection-start-column="9" selection-end-line="83" selection-end-column="14" />
+              <folding>
+                <element signature="e#0#15#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Spider/Spider/settings.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="288">
+              <caret line="58" column="22" selection-start-line="58" selection-end-line="58" selection-end-column="22" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/readme.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="486">
-                <caret line="57" lean-forward="true" selection-start-line="57" selection-end-line="57" />
+              <first_editor relative-caret-position="-154">
+                <caret line="20" column="13" selection-start-line="20" selection-start-column="13" selection-end-line="20" selection-end-column="13" />
               </first_editor>
               <second_editor />
             </state>
@@ -114,13 +137,20 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/stop_words.txt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="684">
+            <state relative-caret-position="900">
               <caret line="50" column="2" selection-start-line="50" selection-start-column="2" selection-end-line="50" selection-end-column="2" />
             </state>
           </provider>
         </entry>
       </file>
     </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
@@ -136,8 +166,11 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/stop_words.txt" />
-        <option value="$PROJECT_DIR$/readme.md" />
         <option value="$PROJECT_DIR$/analysis.py" />
+        <option value="$PROJECT_DIR$/Spider/tools/xici_ip.py" />
+        <option value="$PROJECT_DIR$/Spider/Spider/middlewares.py" />
+        <option value="$PROJECT_DIR$/Spider/Spider/settings.py" />
+        <option value="$PROJECT_DIR$/readme.md" />
       </list>
     </option>
   </component>
@@ -148,8 +181,8 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="348" />
-    <option name="y" value="47" />
+    <option name="x" value="63" />
+    <option name="y" value="24" />
     <option name="width" value="1299" />
     <option name="height" value="736" />
   </component>
@@ -159,7 +192,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -170,12 +202,19 @@
             <path>
               <item name="ch_Haiwang" type="b2602c69:ProjectViewProjectNode" />
               <item name="ch_Haiwang" type="462c0819:PsiDirectoryNode" />
-              <item name="images" type="462c0819:PsiDirectoryNode" />
+              <item name="Spider" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ch_Haiwang" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ch_Haiwang" type="462c0819:PsiDirectoryNode" />
+              <item name="Spider" type="462c0819:PsiDirectoryNode" />
+              <item name="Spider" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -187,6 +226,7 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Spider/Spider" />
       <recent name="$PROJECT_DIR$/images" />
     </key>
   </component>
@@ -202,7 +242,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Python.xici_ip">
     <configuration name="analysis" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="ch_Haiwang" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -225,8 +265,35 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="xici_ip" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="ch_Haiwang" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Spider/tools" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Spider/tools/xici_ip.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.analysis" />
+      <item itemvalue="Python.xici_ip" />
+    </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.xici_ip" />
         <item itemvalue="Python.analysis" />
       </list>
     </recent_temporary>
@@ -245,29 +312,30 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="348" y="47" width="1299" height="736" extended-state="0" />
+    <frame x="63" y="24" width="1299" height="736" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info id="Favorites" order="0" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="1" visible="true" weight="0.26093873" />
+      <window_info active="true" content_ui="combo" id="Project" order="1" visible="true" weight="0.18377088" />
       <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
-      <window_info x="204" y="105" width="798" height="593" id="Run" order="3" type="WINDOWED" visible="true" weight="0.2805873" />
+      <window_info x="204" y="105" width="798" height="593" id="Run" order="3" type="WINDOWED" weight="0.2805873" />
       <window_info anchor="bottom" id="Docker" order="0" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" order="1" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="2" show_stripe_button="false" />
       <window_info anchor="bottom" id="Python Console" order="3" />
-      <window_info anchor="bottom" id="Terminal" order="4" />
+      <window_info anchor="bottom" id="Terminal" order="4" weight="0.5701079" />
       <window_info anchor="bottom" id="Event Log" order="5" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="6" />
       <window_info anchor="bottom" id="Find" order="7" weight="0.32952693" />
-      <window_info anchor="bottom" id="Debug" order="8" weight="0.4" />
+      <window_info anchor="bottom" id="Debug" order="8" weight="0.43230015" />
       <window_info anchor="bottom" id="Cvs" order="9" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="10" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="11" />
-      <window_info anchor="right" id="SciView" weight="0.18854415" />
-      <window_info anchor="right" id="Database" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="SciView" order="3" weight="0.18854415" />
+      <window_info anchor="right" id="Database" order="4" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -308,23 +376,8 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/stop_words.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="684">
-          <caret line="50" column="2" selection-start-line="50" selection-start-column="2" selection-end-line="50" selection-end-column="2" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/city.json">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/haiwang.csv">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="177">
-          <caret line="58559" column="2" selection-start-line="58559" selection-start-column="1" selection-end-line="58559" selection-end-column="2" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/city.json" />
+    <entry file="file://$PROJECT_DIR$/haiwang.csv" />
     <entry file="file://$USER_HOME$/venv3.5/lib/python3.5/site-packages/pyecharts/charts/geo.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="33">
@@ -346,30 +399,8 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/粉丝位置分布-GEO.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <folding>
-            <element signature="n#style#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/images/2.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/images/1.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/render.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <folding>
-            <element signature="n#style#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/粉丝位置分布-GEO.html" />
+    <entry file="file://$PROJECT_DIR$/render.html" />
     <entry file="file://$PROJECT_DIR$/images/chart_line.png">
       <provider selected="true" editor-type-id="images" />
     </entry>
@@ -379,20 +410,86 @@
     <entry file="file://$PROJECT_DIR$/images/ciyun.png">
       <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/readme.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="486">
-            <caret line="57" lean-forward="true" selection-start-line="57" selection-end-line="57" />
-          </first_editor>
-          <second_editor />
+    <entry file="file://$PROJECT_DIR$/analysis.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="18">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/analysis.py">
+    <entry file="file://$PROJECT_DIR$/images/1.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/2.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/stop_words.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-2880">
-          <caret line="8" selection-start-line="8" selection-end-line="8" />
+        <state relative-caret-position="900">
+          <caret line="50" column="2" selection-start-line="50" selection-start-column="2" selection-end-line="50" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pip.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$USER_HOME$/venv3.5/lib/python3.5/site-packages/pymysql/connections.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="282" selection-start-line="282" selection-end-line="282" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/venv3.5/lib/python3.5/site-packages/parsel/selector.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="161">
+          <caret line="264" selection-start-line="264" selection-end-line="264" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/venv3.5/lib/python3.5/site-packages/pymysql/cursors.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="79">
+          <caret line="150" column="8" selection-start-line="150" selection-start-column="8" selection-end-line="150" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Spider/Spider/tools/xici_ip.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="801">
+          <caret line="83" column="14" selection-start-line="83" selection-start-column="9" selection-end-line="83" selection-end-column="14" />
+          <folding>
+            <element signature="e#0#15#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Spider/Spider/settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="58" column="22" selection-start-line="58" selection-end-line="58" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Spider/Spider/middlewares.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="29" selection-start-line="29" selection-end-line="33" selection-end-column="54" />
+          <folding>
+            <element signature="e#169#195#0" expanded="true" />
+            <element signature="e#240#1902#0" />
+            <element signature="e#1951#3594#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/readme.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="-154">
+            <caret line="20" column="13" selection-start-line="20" selection-start-column="13" selection-end-line="20" selection-end-column="13" />
+          </first_editor>
+          <second_editor />
         </state>
       </provider>
     </entry>

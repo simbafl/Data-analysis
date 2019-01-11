@@ -22,7 +22,7 @@ NEWSPIDER_MODULE = 'Spider.spiders'
 ROBOTSTXT_OBEY = False
 
 # Configure maximum concurrent requests performed by Scrapy (default: 16)
-CONCURRENT_REQUESTS = 32
+# CONCURRENT_REQUESTS = 32
 
 # Configure a delay for requests for the same website (default: 0)
 # See https://doc.scrapy.org/en/latest/topics/settings.html#download-delay
@@ -45,6 +45,8 @@ DEFAULT_REQUEST_HEADERS = {
     "X-Requested-With": "superagent"
 }
 
+# fake_useragent插件维护了大量的user-agent, 可以自行选择ie/Firefox/Chrome...
+RANDOM_UA_TYPE = "random"
 
 # Enable or disable spider middlewares
 # See https://doc.scrapy.org/en/latest/topics/spider-middleware.html
@@ -54,9 +56,14 @@ DEFAULT_REQUEST_HEADERS = {
 
 # Enable or disable downloader middlewares
 # See https://doc.scrapy.org/en/latest/topics/downloader-middleware.html
-# DOWNLOADER_MIDDLEWARES = {
-#    'Spider.middlewares.SpiderDownloaderMiddleware': 543,
-# }
+DOWNLOADER_MIDDLEWARES = {
+   # 'Spider.middlewares.SpiderDownloaderMiddleware': 543,
+   # 加入自定义中间建
+   'Spider.middlewares.RandomUserAgentMiddleware': 543,
+   'Spider.middlewares.RandomProxyMiddleware': 544,
+   # 关闭内置UserAgentMiddleware
+   'scrapy.downloadermiddlewares.useragent.UserAgentMiddleware': None
+}
 
 # Enable or disable extensions
 # See https://doc.scrapy.org/en/latest/topics/extensions.html
