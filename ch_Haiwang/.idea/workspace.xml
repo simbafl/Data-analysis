@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b5f2f5e3-2d88-4a25-a414-c36c1ef50dfb" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../ch_Bilibili/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ch_Bilibili/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/readme.md" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -48,13 +47,13 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="md" value="510" />
+          <entry key="md" value="623" />
           <entry key="py" value="4576" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="Markdown" value="510" />
+          <entry key="Markdown" value="623" />
           <entry key="Python" value="4576" />
         </counts>
       </usages-collector>
@@ -110,8 +109,8 @@
         <entry file="file://$PROJECT_DIR$/readme.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="386">
-                <caret line="62" column="50" selection-start-line="62" selection-start-column="50" selection-end-line="62" selection-end-column="50" />
+              <first_editor relative-caret-position="278">
+                <caret line="56" column="93" selection-start-line="56" selection-start-column="93" selection-end-line="56" selection-end-column="93" />
               </first_editor>
               <second_editor />
             </state>
@@ -196,6 +195,11 @@
             <path>
               <item name="ch_Haiwang" type="b2602c69:ProjectViewProjectNode" />
               <item name="ch_Haiwang" type="462c0819:PsiDirectoryNode" />
+              <item name="images" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ch_Haiwang" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ch_Haiwang" type="462c0819:PsiDirectoryNode" />
               <item name="Spider" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -203,6 +207,13 @@
               <item name="ch_Haiwang" type="462c0819:PsiDirectoryNode" />
               <item name="Spider" type="462c0819:PsiDirectoryNode" />
               <item name="Spider" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ch_Haiwang" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ch_Haiwang" type="462c0819:PsiDirectoryNode" />
+              <item name="Spider" type="462c0819:PsiDirectoryNode" />
+              <item name="Spider" type="462c0819:PsiDirectoryNode" />
+              <item name="spiders" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -411,9 +422,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/images/1.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/images/2.png">
       <provider selected="true" editor-type-id="images" />
     </entry>
@@ -477,11 +485,14 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/images/1.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/readme.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="386">
-            <caret line="62" column="50" selection-start-line="62" selection-start-column="50" selection-end-line="62" selection-end-column="50" />
+          <first_editor relative-caret-position="278">
+            <caret line="56" column="93" selection-start-line="56" selection-start-column="93" selection-end-line="56" selection-end-column="93" />
           </first_editor>
           <second_editor />
         </state>

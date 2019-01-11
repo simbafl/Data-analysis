@@ -19,8 +19,8 @@
     scrapy genspider Haiwang m.maoyan.com
 ```
 #### 代码 中间建设置
-##### User-Agent动态设置. 下载`fake_useragent`插件, 维护的比较完善
-##### 维护ip代理池, ip具体操作查看tools目录. `github`上也有人写了比较完善的`scrapy-proxy`, 功能比较齐全, 自我感觉不好用
+##### User-Agent动态设置. 这里下载了`fake_useragent`插件, 维护了大量user-agent, 还是不错的.
+##### 维护ip代理池, ip具体操作查看tools目录. `github`上也有人写了比较完善的`scrapy-proxy`, 类似. 个人建议尽量还是使用收费版本, 便宜而且稳定. scrapy官网推出了收费`scrapy-crawlera`, 更省心.
 ```py
     class RandomUserAgentMiddleware(object):
     # 随机切换user-agent
@@ -50,11 +50,11 @@
 
 #### 评分占比, 看得出来大部分给了5分好评
 
-![1-view](https://github.com/fenglei110/Data-analysis/blob/master/ch_Haiwang/images/1.png)
+![1-view](https://github.com/fenglei110/Data-analysis/blob/master/ch_Haiwang/images/1.png/450)
 
 #### 评分人数占比
 
-![2-view](https://github.com/fenglei110/Data-analysis/blob/master/ch_Haiwang/images/2.png)
+![2-view](https://github.com/fenglei110/Data-analysis/blob/master/ch_Haiwang/images/2.png/450)
 
 #### 平均发布时间占比, 绝大数还是12点左右发布得, 凌晨5点人数最少, 符合常情
 
