@@ -50,11 +50,11 @@
 
 #### 评分占比, 看得出来大部分给了5分好评
 
-![1-view](https://github.com/fenglei110/Data-analysis/blob/master/ch_Haiwang/images/1.png/450)
+![1-view](https://github.com/fenglei110/Data-analysis/blob/master/ch_Haiwang/images/1.png)
 
 #### 评分人数占比
 
-![2-view](https://github.com/fenglei110/Data-analysis/blob/master/ch_Haiwang/images/2.png/450)
+![2-view](https://github.com/fenglei110/Data-analysis/blob/master/ch_Haiwang/images/2.png)
 
 #### 平均发布时间占比, 绝大数还是12点左右发布得, 凌晨5点人数最少, 符合常情
 
