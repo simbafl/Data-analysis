@@ -7,18 +7,7 @@
 
 寻找api规律，获取json数据
 
-基本开始的链接为：url = 'https://s.search.bilibili.com/cate/search?' \
-              'main_ver=v3&' \
-              'search_type=video&' \
-              'view_type=hot_rank&' \
-              'pic_size=160x100&' \
-              'order=click&' \
-              'copy_right=-1&' \
-              'cate_id=1&' \
-              'page=1&' \
-              'pagesize=20&' \
-              'time_from=20181201&' \
-              'time_to=20190109'
+基本开始的链接为：`url = 'https://s.search.bilibili.com/cate/search?main_ver=v3&search_type=video&view_type=hot_rank&pic_size=160x100&order=click&copy_right=-1&cate_id=1&page=1&pagesize=20&time_from=20181201&time_to=20190109'`
 
 `cate_id`可以从网页中正则匹配到，闲麻烦就直接从1遍历到200了，基本就这范围。
 
@@ -67,14 +56,7 @@
 
 至于爬取后要怎么处理就看自己爱好了，最好保存为 csv 文件，方便pandas处理
 
-####
 
-![sql-view]()
-
-####
-
-![sql-reply]()
-
-视频的链接为 `https://www.bilibili.com/video/av + v_aid`
+Bilibili视频的链接为 `https://www.bilibili.com/video/av + v_aid`
 
 对数据感兴趣的话可以邮箱联系我，共同进步。
