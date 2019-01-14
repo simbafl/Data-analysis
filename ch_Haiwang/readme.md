@@ -19,8 +19,8 @@
     scrapy genspider Haiwang m.maoyan.com
 ```
 #### 代码 中间建设置
-##### User-Agent动态设置. 这里下载了`fake_useragent`插件, 维护了大量user-agent, 还是不错的.
-##### 维护ip代理池, ip具体操作查看tools目录. `github`上也有人写了比较完善的`scrapy-proxy`, 类似. 个人建议尽量还是使用收费版本, 便宜而且稳定. scrapy官网推出了收费`scrapy-crawlera`, 更省心.
+##### `User-Agent`动态设置. 这里下载了`fake_useragent`插件, 维护了大量user-agent, 还是不错的.
+##### 维护`IP`代理池, 维护ip具体操作查看tools目录. `github`上也有人写了比较完善的`scrapy-proxy`, 类似. 个人建议尽量还是使用收费版本, 便宜而且稳定. scrapy官网推出了收费`scrapy-crawlera`, 更省心.
 ```py
     class RandomUserAgentMiddleware(object):
     # 随机切换user-agent
