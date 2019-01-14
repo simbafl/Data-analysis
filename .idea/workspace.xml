@@ -2,13 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="aebe9f74-6e41-4c14-9a31-d4ee8ae1cbb1" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/kaggle/data/HR.bak.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ch01/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/ch01/readme.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ch02/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/ch02/readme.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ch_Haiwang/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/ch_Haiwang/readme.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/kaggle/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/kaggle/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -48,12 +42,12 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="md" value="1547" />
+          <entry key="md" value="1637" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="Markdown" value="1547" />
+          <entry key="Markdown" value="1637" />
         </counts>
       </usages-collector>
     </session>
@@ -80,12 +74,12 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/ch01/readme.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="414">
-                <caret line="41" column="9" selection-start-line="41" selection-start-column="9" selection-end-line="41" selection-end-column="9" />
+              <first_editor relative-caret-position="-198">
+                <caret line="19" column="9" lean-forward="true" selection-start-line="19" selection-start-column="9" selection-end-line="19" selection-end-column="9" />
               </first_editor>
               <second_editor />
             </state>
@@ -116,7 +110,7 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
@@ -140,8 +134,8 @@
         <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/kaggle/data/HR.bak.csv" />
         <option value="$PROJECT_DIR$/ch02/readme.md" />
-        <option value="$PROJECT_DIR$/ch01/readme.md" />
         <option value="$PROJECT_DIR$/ch_Haiwang/readme.md" />
+        <option value="$PROJECT_DIR$/ch01/readme.md" />
       </list>
     </option>
   </component>
@@ -247,7 +241,7 @@
     <frame x="65" y="-4" width="1301" height="772" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25893566" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.04686259" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -349,16 +343,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ch01/readme.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="414">
-            <caret line="41" column="9" selection-start-line="41" selection-start-column="9" selection-end-line="41" selection-end-column="9" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/kaggle/data/HR.bak.csv">
       <provider editor-type-id="csv-table-editor">
         <state showInfoPanel="true" rowLines="3" />
@@ -384,6 +368,16 @@
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="324">
             <caret line="18" column="31" selection-start-line="18" selection-start-column="31" selection-end-line="18" selection-end-column="31" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ch01/readme.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="-198">
+            <caret line="19" column="9" lean-forward="true" selection-start-line="19" selection-start-column="9" selection-end-line="19" selection-end-column="9" />
           </first_editor>
           <second_editor />
         </state>
