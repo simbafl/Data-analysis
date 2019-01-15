@@ -28,5 +28,5 @@
 #### 标量：`1*1`的矩阵。
 #### 数组：N维的数组，是矩阵的延伸。
 
-#### 分类器很多，如何具体分类，sklearn官网提供了大概思路
+## 机器学习实现了太多类器，如何具体选择，sklearn官网提供了大概思路
 ![1-view](https://github.com/fenglei110/Data-analysis/blob/master/ch02/images/sklearn.png)
