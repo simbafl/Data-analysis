@@ -15,12 +15,12 @@
 #### 问题建模
 ![1-view](https://github.com/fenglei110/Data-analysis/blob/master/ch02/images/1.png)
 #### 特征工程
-![1-view](https://github.com/fenglei110/Data-analysis/blob/master/ch02/images/2.png)
+![2-view](https://github.com/fenglei110/Data-analysis/blob/master/ch02/images/2.png)
 #### 常用模型(更多模型选择往下看)
-![1-view](https://github.com/fenglei110/Data-analysis/blob/master/ch02/images/3.png)
+![3-view](https://github.com/fenglei110/Data-analysis/blob/master/ch02/images/3.png)
 #### 模型融合
-![1-view](https://github.com/fenglei110/Data-analysis/blob/master/ch02/images/4.png)
+![4-view](https://github.com/fenglei110/Data-analysis/blob/master/ch02/images/4.png)
 #### 用户画像
-![1-view](https://github.com/fenglei110/Data-analysis/blob/master/ch02/images/5.png)
+![5-view](https://github.com/fenglei110/Data-analysis/blob/master/ch02/images/5.png)
 #### 机器学习实现了太多模型，具体如何选择，sklearn官网提供了大概思路
-![1-view](https://github.com/fenglei110/Data-analysis/blob/master/ch02/images/sklearn.png)
+![sklearn-view](https://github.com/fenglei110/Data-analysis/blob/master/ch02/images/sklearn.png)
