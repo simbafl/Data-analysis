@@ -15,38 +15,38 @@
 #### redis常用命令
 
 ##### 字符串
-set key value
-get key
-getrange key start end
-strlen key
-incr/decr key 
-append key value
+set key value  
+get key  
+getrange key start end  
+strlen key  
+incr/decr key   
+append key value  
 
 ##### 哈希
-hset key name value
-hget key
-hexists key fields
-hdel key filds
-hkeys key
-hvals key
+hset key name value  
+hget key  
+hexists key fields  
+hdel key filds  
+hkeys key  
+hvals key  
 
 ##### 列表
-lpush/rpush mylist value
-lrange mylist 0 10
-blpop/brpop key1 timeout
-lpop/rpop key
-llen key
-lindex key index
+lpush/rpush mylist value  
+lrange mylist 0 10  
+blpop/brpop key1 timeout  
+lpop/rpop key  
+llen key  
+lindex key index  
 
 ##### 集合
-sadd myset value
-scard key
-sdiff key
-sinter key
-spop key
-smember key member
+sadd myset value  
+scard key  
+sdiff key  
+sinter key  
+spop key  
+smember key member  
 
 ##### 有序集合
-zadd myset 0 value
-srangebyscore myset 0 100
-zcount key min max
+zadd myset 0 value  
+srangebyscore myset 0 100  
+zcount key min max  
