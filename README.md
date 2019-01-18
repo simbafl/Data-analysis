@@ -4,7 +4,7 @@ python数据分析与挖掘建模
 - :soccer: [<font size=+1>数据分析与特征处理</font>](./ch01)
 - :basketball: [<font size=+1>机器学习与数据建模</font>](./ch02)
 - :apple: [<font size=+1>模型评估</font>](./ch03)
-- :hamburger: [<font size=+1>自然语言处理</font>](./ch04)
+- :hamburger: [<font size=+1>自然语言处理</font>](./NLP)
 - :cherries: [<font size=+1>爬B站</font>](./ch_Bilibili)
 - :strawberry: [<font size=+1>爬猫眼</font>](./ch_Haiwang)
 - :cookie: [<font size=+1>分布式爬虫</font>](./ch_Distributedcrawler)
