@@ -12,15 +12,15 @@
  `标签传播`
  
 #### 机器学习一般流程：问题建模，特征工程，模型选择，模型融合，模型应用
-#### 问题建模
+#### 1. 问题建模
 ![1-view](https://github.com/fenglei110/Data-analysis/blob/master/ch02/images/1.jpg)
-#### 特征工程
+#### 2. 特征工程
 ![2-view](https://github.com/fenglei110/Data-analysis/blob/master/ch02/images/2.jpg)
-#### 常用模型(更多模型选择往下看)
+#### 3. 常用模型(更多模型选择往下看)
 ![3-view](https://github.com/fenglei110/Data-analysis/blob/master/ch02/images/3.jpg)
-#### 模型融合
+#### 4. 模型融合
 ![4-view](https://github.com/fenglei110/Data-analysis/blob/master/ch02/images/4.jpg)
-#### 用户画像
+#### 5. 用户画像
 ![5-view](https://github.com/fenglei110/Data-analysis/blob/master/ch02/images/5.jpg)
 #### 机器学习实现了太多模型，具体如何选择，sklearn官网提供了大概思路
 ![sklearn-view](https://github.com/fenglei110/Data-analysis/blob/master/ch02/images/sklearn.png)
