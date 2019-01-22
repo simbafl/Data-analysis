@@ -9,7 +9,7 @@ python数据分析与挖掘建模
 - :strawberry: [<font size=+1>爬猫眼</font>](./ch_Haiwang)
 - :cookie: [<font size=+1>分布式爬虫</font>](./ch_Distributedcrawler)
 - :fries: [<font size=+1>kaggle竞赛项目</font>](./kaggle)
----
+
 ## 常用工具
 - numpy
 - pandas
@@ -26,4 +26,5 @@ python数据分析与挖掘建模
   - scipy.weave 利用内脸c++代码加速数组计算的工具
   
 - sk-learn 数据挖掘机器学习算法的集合
-  
+- Jupyter Notebook的本质是一个Web应用程序，便于创建和共享文学化程序文档，支持实时代码，数学方程，可视化和markdown，kaggle竞赛里资料都是Jupyter格式。用途包括：数据清理和转换，数值模拟，统计建模，机器学习等。 
+- TensoFlow 是一个采用数据流图，用于数值计算的开源软件库。最初被Google用于机器学习和深度神经网络方面的研究，但也可广泛用于其他计算领域。
