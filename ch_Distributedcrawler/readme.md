@@ -12,41 +12,46 @@
 
 #### scrapy不支持分布式，结合redis的特性自然而然产生了scrapy-redis
 
-#### redis常用命令
-
-##### 字符串
+#### redis常用命令:
+```md 
+# 字符串
 set key value  
 get key  
 getrange key start end  
 strlen key  
 incr/decr key   
 append key value  
-
-##### 哈希
+```
+```md
+# 哈希
 hset key name value  
 hget key  
 hexists key fields  
 hdel key filds  
 hkeys key  
 hvals key  
-
-##### 列表
+```
+```md
+# 列表
 lpush/rpush mylist value  
 lrange mylist 0 10  
 blpop/brpop key1 timeout  
 lpop/rpop key  
 llen key  
 lindex key index  
-
-##### 集合
+```
+```md
+# 集合
 sadd myset value  
 scard key  
 sdiff key  
 sinter key  
 spop key  
 smember key member  
-
-##### 有序集合
+```
+```md
+# 有序集合
 zadd myset 0 value  
 srangebyscore myset 0 100  
 zcount key min max  
+```
