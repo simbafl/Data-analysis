@@ -3,58 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="6173bf67-24fd-489d-a69f-2022bbc3755a" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ch_Bilibili/.idea/ch_Bilibili.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ch_Bilibili/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ch_Bilibili/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ch_Bilibili/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ch_Bilibili/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ch_Bilibili/images/big.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ch_Bilibili/images/small.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ch_Bilibili/images/three.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ch_Bilibili/readme.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ch_Distributedcrawler/Connection.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ch_Distributedcrawler/Duperfilter.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ch_Distributedcrawler/Pipelines.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ch_Distributedcrawler/Queue.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ch_Distributedcrawler/Scheduler.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ch_Distributedcrawler/Spider.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ch_Distributedcrawler/picklecompat.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ch_Distributedcrawler/readme.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ch_Haiwang/.idea/ch_Haiwang.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ch_Haiwang/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ch_Haiwang/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ch_Haiwang/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ch_Haiwang/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ch_Haiwang/Spider/.idea/Spider.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ch_Haiwang/Spider/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ch_Haiwang/Spider/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ch_Haiwang/Spider/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ch_Haiwang/Spider/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ch_Haiwang/Spider/Spider/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ch_Haiwang/Spider/Spider/items.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ch_Haiwang/Spider/Spider/middlewares.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ch_Haiwang/Spider/Spider/pipelines.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ch_Haiwang/Spider/Spider/settings.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ch_Haiwang/Spider/Spider/spiders/Haiwang.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ch_Haiwang/Spider/Spider/spiders/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ch_Haiwang/Spider/Spider/tools/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ch_Haiwang/Spider/Spider/tools/xici_ip.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ch_Haiwang/Spider/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ch_Haiwang/Spider/run.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ch_Haiwang/Spider/scrapy.cfg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ch_Haiwang/analysis.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ch_Haiwang/city_coordinates.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ch_Haiwang/images/1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ch_Haiwang/images/2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ch_Haiwang/images/chart_line.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ch_Haiwang/images/ciyun.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ch_Haiwang/images/csv.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ch_Haiwang/images/geo.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ch_Haiwang/images/list.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ch_Haiwang/images/mongo.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ch_Haiwang/pip.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ch_Haiwang/readme.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ch_Haiwang/stop_words.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Spider/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/Spider/readme.md" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -88,12 +37,12 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="md" value="1035" />
+          <entry key="md" value="1087" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="Markdown" value="1005" />
+          <entry key="Markdown" value="1057" />
           <entry key="Python" value="30" />
         </counts>
       </usages-collector>
@@ -101,24 +50,24 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="54">
-                <caret line="3" selection-start-line="3" selection-end-line="5" selection-end-column="45" />
+              <first_editor relative-caret-position="548">
+                <caret line="32" lean-forward="true" selection-start-line="32" selection-end-line="32" />
               </first_editor>
               <second_editor />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Spider/readme.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
               <first_editor relative-caret-position="90">
-                <caret line="5" column="18" selection-start-line="5" selection-start-column="18" selection-end-line="5" selection-end-column="18" />
+                <caret line="5" column="24" selection-start-line="5" selection-start-column="24" selection-end-line="5" selection-end-column="24" />
               </first_editor>
               <second_editor />
             </state>
@@ -141,8 +90,8 @@
         <entry file="file://$PROJECT_DIR$/Spider/ch_Haiwang/readme.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="1224">
-                <caret line="68" column="69" selection-start-line="68" selection-start-column="69" selection-end-line="68" selection-end-column="69" />
+              <first_editor relative-caret-position="314">
+                <caret line="65" lean-forward="true" selection-start-line="63" selection-end-line="65" />
               </first_editor>
               <second_editor />
             </state>
@@ -192,11 +141,11 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/ch02/readme.md" />
-        <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/Spider/ch_Haiwang/readme.md" />
         <option value="$PROJECT_DIR$/Spider/ch_Bilibili/readme.md" />
-        <option value="$PROJECT_DIR$/Spider/readme.md" />
         <option value="$PROJECT_DIR$/Spider/ch_summary/summary01.md" />
+        <option value="$PROJECT_DIR$/Spider/readme.md" />
+        <option value="$PROJECT_DIR$/README.md" />
       </list>
     </option>
   </component>
@@ -229,6 +178,12 @@
               <item name="Data-analysis" type="b2602c69:ProjectViewProjectNode" />
               <item name="Data-analysis" type="462c0819:PsiDirectoryNode" />
               <item name="Spider" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Data-analysis" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Data-analysis" type="462c0819:PsiDirectoryNode" />
+              <item name="Spider" type="462c0819:PsiDirectoryNode" />
+              <item name="ch_Haiwang" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -269,6 +224,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="64" y="-11" width="1303" height="780" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18347895" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -310,26 +266,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="54">
-            <caret line="3" selection-start-line="3" selection-end-line="5" selection-end-column="45" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Spider/ch_Haiwang/readme.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="1224">
-            <caret line="68" column="69" selection-start-line="68" selection-start-column="69" selection-end-line="68" selection-end-column="69" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Spider/ch_Distributedcrawler/readme.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
@@ -361,11 +297,31 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Spider/ch_Haiwang/readme.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="314">
+            <caret line="65" lean-forward="true" selection-start-line="63" selection-end-line="65" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Spider/readme.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="90">
-            <caret line="5" column="18" selection-start-line="5" selection-start-column="18" selection-end-line="5" selection-end-column="18" />
+            <caret line="5" column="24" selection-start-line="5" selection-start-column="24" selection-end-line="5" selection-end-column="24" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="548">
+            <caret line="32" lean-forward="true" selection-start-line="32" selection-end-line="32" />
           </first_editor>
           <second_editor />
         </state>
