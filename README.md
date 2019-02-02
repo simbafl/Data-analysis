@@ -5,7 +5,7 @@ python数据分析与挖掘建模
 - :basketball: [<font size=+1>机器学习与数据建模</font>](./ch02)
 - :apple: [<font size=+1>模型评估</font>](./ch03)
 - :hamburger: [<font size=+1>自然语言处理</font>](./NLP)
-- :cherries: [<font size=+1>爬虫</font>](./Spider)
+- :cherries: [<font size=+1>爬虫那点事</font>](./Spider)
 - :fries: [<font size=+1>kaggle竞赛项目</font>](./kaggle)
 
 ## 常用工具
