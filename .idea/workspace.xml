@@ -1,0 +1,375 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="6173bf67-24fd-489d-a69f-2022bbc3755a" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ch_Bilibili/.idea/ch_Bilibili.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ch_Bilibili/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ch_Bilibili/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ch_Bilibili/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ch_Bilibili/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ch_Bilibili/images/big.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ch_Bilibili/images/small.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ch_Bilibili/images/three.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ch_Bilibili/readme.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ch_Distributedcrawler/Connection.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ch_Distributedcrawler/Duperfilter.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ch_Distributedcrawler/Pipelines.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ch_Distributedcrawler/Queue.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ch_Distributedcrawler/Scheduler.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ch_Distributedcrawler/Spider.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ch_Distributedcrawler/picklecompat.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ch_Distributedcrawler/readme.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ch_Haiwang/.idea/ch_Haiwang.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ch_Haiwang/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ch_Haiwang/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ch_Haiwang/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ch_Haiwang/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ch_Haiwang/Spider/.idea/Spider.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ch_Haiwang/Spider/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ch_Haiwang/Spider/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ch_Haiwang/Spider/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ch_Haiwang/Spider/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ch_Haiwang/Spider/Spider/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ch_Haiwang/Spider/Spider/items.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ch_Haiwang/Spider/Spider/middlewares.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ch_Haiwang/Spider/Spider/pipelines.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ch_Haiwang/Spider/Spider/settings.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ch_Haiwang/Spider/Spider/spiders/Haiwang.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ch_Haiwang/Spider/Spider/spiders/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ch_Haiwang/Spider/Spider/tools/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ch_Haiwang/Spider/Spider/tools/xici_ip.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ch_Haiwang/Spider/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ch_Haiwang/Spider/run.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ch_Haiwang/Spider/scrapy.cfg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ch_Haiwang/analysis.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ch_Haiwang/city_coordinates.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ch_Haiwang/images/1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ch_Haiwang/images/2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ch_Haiwang/images/chart_line.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ch_Haiwang/images/ciyun.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ch_Haiwang/images/csv.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ch_Haiwang/images/geo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ch_Haiwang/images/list.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ch_Haiwang/images/mongo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ch_Haiwang/pip.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ch_Haiwang/readme.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ch_Haiwang/stop_words.txt" beforeDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="-1633150020">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="5" />
+          <entry key="project.open.time.0" value="1" />
+          <entry key="project.open.time.1" value="3" />
+          <entry key="project.open.time.10" value="1" />
+          <entry key="project.open.time.12" value="1" />
+          <entry key="project.opened" value="6" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="md" value="7" />
+          <entry key="py" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="Markdown" value="7" />
+          <entry key="Python" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="md" value="1035" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="Markdown" value="1005" />
+          <entry key="Python" value="30" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/README.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="54">
+                <caret line="3" selection-start-line="3" selection-end-line="5" selection-end-column="45" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Spider/readme.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="90">
+                <caret line="5" column="18" selection-start-line="5" selection-start-column="18" selection-end-line="5" selection-end-column="18" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Spider/ch_summary/summary01.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="FIRST">
+              <first_editor relative-caret-position="206">
+                <caret line="33" selection-start-line="33" selection-end-line="33" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Spider/ch_Haiwang/readme.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="1224">
+                <caret line="68" column="69" selection-start-line="68" selection-start-column="69" selection-end-line="68" selection-end-column="69" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Spider/ch_Distributedcrawler/readme.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor />
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Spider/ch_Bilibili/readme.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="332">
+                <caret line="54" column="72" selection-start-line="54" selection-start-column="72" selection-end-line="54" selection-end-column="72" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ch02/readme.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="72">
+                <caret line="4" column="42" selection-start-line="4" selection-start-column="42" selection-end-line="4" selection-end-column="42" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/ch02/readme.md" />
+        <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/Spider/ch_Haiwang/readme.md" />
+        <option value="$PROJECT_DIR$/Spider/ch_Bilibili/readme.md" />
+        <option value="$PROJECT_DIR$/Spider/readme.md" />
+        <option value="$PROJECT_DIR$/Spider/ch_summary/summary01.md" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="75" />
+    <option name="y" value="34" />
+    <option name="width" value="1295" />
+    <option name="height" value="692" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Data-analysis" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Data-analysis" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Data-analysis" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Data-analysis" type="462c0819:PsiDirectoryNode" />
+              <item name="Spider" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6173bf67-24fd-489d-a69f-2022bbc3755a" name="Default Changelist" comment="" />
+      <created>1548469184114</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1548469184114</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="64" y="-11" width="1303" height="780" extended-state="6" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18347895" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Terminal" order="11" />
+      <window_info anchor="bottom" id="Python Console" order="12" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="SciView" order="3" />
+      <window_info anchor="right" id="Database" order="4" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/ch02/readme.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="72">
+            <caret line="4" column="42" selection-start-line="4" selection-start-column="42" selection-end-line="4" selection-end-column="42" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="54">
+            <caret line="3" selection-start-line="3" selection-end-line="5" selection-end-column="45" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Spider/ch_Haiwang/readme.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="1224">
+            <caret line="68" column="69" selection-start-line="68" selection-start-column="69" selection-end-line="68" selection-end-column="69" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Spider/ch_Distributedcrawler/readme.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Spider/ch_Bilibili/readme.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="332">
+            <caret line="54" column="72" selection-start-line="54" selection-start-column="72" selection-end-line="54" selection-end-column="72" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Spider/ch_Haiwang/Spider/Spider/settings.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Spider/ch_summary/summary01.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="206">
+            <caret line="33" selection-start-line="33" selection-end-line="33" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Spider/readme.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="90">
+            <caret line="5" column="18" selection-start-line="5" selection-start-column="18" selection-end-line="5" selection-end-column="18" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

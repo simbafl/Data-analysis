@@ -48,11 +48,11 @@
                     yield item
     
 ```
-![bili-1](https://github.com/fenglei110/Data-analysis/blob/master/ch_Bilibili/images/big.png)
+![bili-1](https://github.com/fenglei110/Data-analysis/blob/master/Spider/ch_Bilibili/images/big.png)
 
-![bili-2](https://github.com/fenglei110/Data-analysis/blob/master/ch_Bilibili/images/small.png)
+![bili-2](https://github.com/fenglei110/Data-analysis/blob/master/Spider/ch_Bilibili/images/small.png)
 
-![bili-3](https://github.com/fenglei110/Data-analysis/blob/master/ch_Bilibili/images/three.png)
+![bili-3](https://github.com/fenglei110/Data-analysis/blob/master/Spider/ch_Bilibili/images/three.png)
 
 至于爬取后要怎么处理就看自己爱好了，最好保存为 csv 文件，方便pandas处理
 
