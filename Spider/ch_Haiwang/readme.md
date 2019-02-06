@@ -60,7 +60,7 @@
 
 ![chart-line](https://github.com/fenglei110/Data-analysis/blob/master/Spider/ch_Haiwang/images/chart_line.png)
 
-#### 评论词云图, 具体方法查看 `http://pyecharts.org/#/zh-cn/`
+#### jieba制作词云图, 做图具体方法查看 [pyecharts](http://pyecharts.org/#/zh-cn/)
 
 ![ciyun](https://github.com/fenglei110/Data-analysis/blob/master/Spider/ch_Haiwang/images/ciyun.png)
 

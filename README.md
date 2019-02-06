@@ -28,5 +28,5 @@ python数据分析与挖掘建模
 - TensorFlow 是一个采用数据流图，用于数值计算的开源软件库。最初被Google用于机器学习和深度神经网络方面的研究，但也可广泛用于其他计算领域。
 - Anaconda 包括Conda，Python以及180多安装好的工具包机器依赖，比如：numpy, pandas等。Conda是一个开源的包，环境管理器，可以用于在同一个机器上安装不同版本的软件包及其依赖，并能够在不同的环境之间切换。
 
-**电影词云**
+**jieba分词Demo**
 ![ciyun](https://github.com/fenglei110/Data-analysis/blob/master/Spider/ch_Haiwang/images/ciyun.png)
