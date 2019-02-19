@@ -27,6 +27,7 @@ class crack_picture(object):
         return img1, img2
 
     def repeat(self, url, hd):
+        """请求url"""
         times = 10
         while times > 0:
             try:
