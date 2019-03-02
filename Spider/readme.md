@@ -8,4 +8,4 @@
 - [<font size=+1>url常用去重</font>](./ch_summary/summary02.md)
 - [<font size=+1>代码模拟url去重</font>](./ch_summary/summary04.md)
 - [<font size=+1>多线程，协程，与异步IO</font>](./ch_summary/summary03.md)
-- [<font size=+1>破解滑动验证码</font>](./ch_Code)
+- [<font size=+1>破解滑动验证码(网站变化太快，随机应变)</font>](./ch_Code)
