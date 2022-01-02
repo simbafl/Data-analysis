@@ -7,6 +7,7 @@ python数据分析与挖掘建模
 - :hamburger: [<font size=+1>自然语言处理</font>](./NLP)
 - :cherries: [<font size=+1>爬虫那点事</font>](./Spider)
 - :fries: [<font size=+1>kaggle竞赛项目</font>](./kaggle)
+- :banana: [<font size=+1>知识图谱</font>]()
 
 ## 常用工具
 - numpy
